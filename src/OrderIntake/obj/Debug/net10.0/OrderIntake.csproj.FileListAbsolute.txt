@@ -1,0 +1,11 @@
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.AssemblyInfoInputs.cache
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.AssemblyInfo.cs
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.csproj.CoreCompileInputs.cache
+C:\Users\UPENDRA\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.deps.json
+C:\Users\UPENDRA\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.dll
+C:\Users\UPENDRA\Project22\src\OrderIntake\bin\Debug\net10.0\OrderIntake.pdb
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.dll
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\refint\OrderIntake.dll
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\OrderIntake.pdb
+C:\Users\UPENDRA\Project22\src\OrderIntake\obj\Debug\net10.0\ref\OrderIntake.dll
